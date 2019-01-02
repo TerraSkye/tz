@@ -1,0 +1,5 @@
+{
+    "require": {
+        "prooph/event-store": "dev-master"
+    }
+}
